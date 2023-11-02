@@ -20,7 +20,7 @@ shutdown = False
 # other settings for market making algo
 SPREAD = 0.02
 BUY_VOLUME = 500
-SELL_VOLUME = 500
+SELL_VOLUME = 1000
 
 # delete orders older than 5 ticks
 num_orders = len(orders)
