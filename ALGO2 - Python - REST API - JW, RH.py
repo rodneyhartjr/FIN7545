@@ -2,6 +2,7 @@
 
 import signal
 import requests
+from time import sleep
 
 
 # this class definition allows us to print error messages and stop the program when needed
